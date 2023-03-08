@@ -1,0 +1,5 @@
+workingExperience: 2
+professionalAbility: 2
+communicationAbility: 2
+strainAbility: 2
+studentSatisfaction: 2
